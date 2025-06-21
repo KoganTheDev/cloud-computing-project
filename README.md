@@ -55,8 +55,9 @@ It serves as a data-driven operational panel for engineering teams needing quick
 ---
 
 ## 🧪 **Demo Preview**  
-![image](https://github.com/user-attachments/assets/cf314f80-4362-42dd-8d29-54a4a26fc4bb)
-![image](https://github.com/user-attachments/assets/4fb95905-8871-4aae-b781-385a13466847)
+![image](https://github.com/user-attachments/assets/67b4913d-5960-481e-8659-72be891237c7)
+![image](https://github.com/user-attachments/assets/9b1b8956-4f07-4974-ade5-a557e35426ff)
+![image](https://github.com/user-attachments/assets/94ec66e4-5367-419c-803e-bcb936810b73)
 
 ---
 
